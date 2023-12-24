@@ -1,9 +1,9 @@
-### <div>Hi, I'm Ilya, a 17-year-old developer from Russia. I'm trying to find myself.</div>  
+### <div>👋 Hi, I'm Ilya, a 17-year-old developer from Russia. I'm trying to find myself.</div>  
   
 
 
 
-### My Skill Set  
+### My Skill Set 💻
 <div>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -22,7 +22,7 @@
 
 
 
-### Socials
+### Socials 📱
 
 <p align="left"> <a href="https://www.github.com/ShiderS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
   
