@@ -1,4 +1,4 @@
-### <div>👋 Hi, I'm Ilya, a 17-year-old developer from Russia. I'm trying to find myself.</div>  
+<div>👋 Hi, I'm Ilya, a 17-year-old developer from Russia. I'm trying to find myself.</div>  
   
 
 
@@ -24,8 +24,8 @@
 
 ### Socials 📱
 
-<p align="left"> <a href="https://www.github.com/ShiderS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-  
+<p align="left"> <a href="https://www.github.com/ShiderS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://vk.com/shiders" tarhet="_blank" rel="noreferrer"> <picture> <img style="margin: 10px" src="https://github.com/ShiderS/ShiderS/assets/91889912/4aa9b409-5757-4f81-9a40-27255162fb6d" width="32" heigth="32" alt="Vk" /> </picture> </a> <a href="https://t.me/shiders" tarhet="_blank" rel="noreferrer"> <picture> <img style="margin: 10px" src="https://github.com/ShiderS/ShiderS/assets/91889912/c4fd9b52-a5fe-454f-9750-5e746bc83c95" width="32" heigth="32" alt="Telegram Web" /> </picture> </a> </p>
+
 
 <br/>  
 
